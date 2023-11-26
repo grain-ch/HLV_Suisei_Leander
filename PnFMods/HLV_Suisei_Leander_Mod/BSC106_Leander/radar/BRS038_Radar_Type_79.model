@@ -1,0 +1,7 @@
+<BRS038_Radar_Type_79.model>
+	<castsShadow>	false	</castsShadow>
+	<parent>	PnFMods/HLV_Suisei_Leander_Mod/BSC106_Leander/radar/lods/BRS038_Radar_Type_79_lod1	</parent>
+	<extent>	4.0000	</extent>
+	<nodefullVisual>	PnFMods/HLV_Suisei_Leander_Mod/BSC106_Leander/radar/BRS038_Radar_Type_79	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</BRS038_Radar_Type_79.model>

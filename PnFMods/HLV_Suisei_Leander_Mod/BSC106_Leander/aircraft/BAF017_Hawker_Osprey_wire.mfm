@@ -1,0 +1,10 @@
+<BAF017_Hawker_Osprey_wire.mfm>
+	<collisionFlags>	0	</collisionFlags>
+	<fx>	shaders/std_effects/PBS_wire.fx	</fx>
+	<property>	metallicGlossMap
+		<Texture>	PnFMods/HLV_Suisei_Leander_Mod/BSC106_Leander/aircraft/BAF017_Hawker_Osprey_mg.dds	</Texture>
+	</property>
+	<property>	diffuseMap
+		<Texture>	PnFMods/HLV_Suisei_Leander_Mod/BSC106_Leander/aircraft/BAF017_Hawker_Osprey_a.dds	</Texture>
+	</property>
+</BAF017_Hawker_Osprey_wire.mfm>

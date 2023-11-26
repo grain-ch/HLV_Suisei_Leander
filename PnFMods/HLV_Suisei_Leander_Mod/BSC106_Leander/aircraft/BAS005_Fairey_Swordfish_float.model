@@ -1,0 +1,9 @@
+<BAS005_Fairey_Swordfish_float.model>
+	<exporter>	1.6	</exporter>
+	<parent>	PnFMods/HLV_Suisei_Leander_Mod/BSC106_Leander/aircraft/lods/BAS005_Fairey_Swordfish_float_lod1	</parent>
+	<extent>	5.0000	</extent>
+	<materialNames />
+	<castsShadow>	true	</castsShadow>
+	<nodefullVisual>	PnFMods/HLV_Suisei_Leander_Mod/BSC106_Leander/aircraft/BAS005_Fairey_Swordfish_float	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</BAS005_Fairey_Swordfish_float.model>

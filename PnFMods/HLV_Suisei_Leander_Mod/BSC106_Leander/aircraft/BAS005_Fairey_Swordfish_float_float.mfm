@@ -1,0 +1,16 @@
+<BAS005_Fairey_Swordfish_float_float.mfm>
+	<fx>	shaders/std_effects/PBS.fx	</fx>
+	<collisionFlags>	0	</collisionFlags>
+	<property>	normalMap
+		<Texture>	PnFMods/HLV_Suisei_Leander_Mod/BSC106_Leander/aircraft/BAS005_Fairey_Swordfish_float_float_n.dds	</Texture>
+	</property>
+	<property>	diffuseMap
+		<Texture>	PnFMods/HLV_Suisei_Leander_Mod/BSC106_Leander/aircraft/BAS005_Fairey_Swordfish_float_float_a.dds	</Texture>
+	</property>
+	<property>	ambientOcclusionMap
+		<Texture>	PnFMods/HLV_Suisei_Leander_Mod/BSC106_Leander/aircraft/default_ao.dds	</Texture>
+	</property>
+	<property>	metallicGlossMap
+		<Texture>	PnFMods/HLV_Suisei_Leander_Mod/BSC106_Leander/aircraft/BAS005_Fairey_Swordfish_float_float_mg.dds	</Texture>
+	</property>
+</BAS005_Fairey_Swordfish_float_float.mfm>
