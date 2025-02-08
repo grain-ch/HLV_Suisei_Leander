@@ -1,5 +1,5 @@
 <BGT050_21in_4tube_QR_Mk_VII.mfm>
-	<fx>	shaders/std_effects/PBS_ship.fx	</fx>
+	<fx>	shaders/materials/pbs/ship_material.fx	</fx>
 	<collisionFlags>	0	</collisionFlags>
 	<property>	ambientOcclusionMap
 		<Texture>	PnFMods/HLV_Suisei_Leander_Mod/BSC106_Leander/gun/BGT050_21in_4tube_QR_Mk_VII_ao.dds	</Texture>

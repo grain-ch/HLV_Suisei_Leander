@@ -1,7 +1,8 @@
 <BRS038_Radar_Type_79.model>
-	<castsShadow>	false	</castsShadow>
-	<parent>	PnFMods/HLV_Suisei_Leander_Mod/BSC106_Leander/radar/lods/BRS038_Radar_Type_79_lod1	</parent>
-	<extent>	4.0000	</extent>
-	<nodefullVisual>	PnFMods/HLV_Suisei_Leander_Mod/BSC106_Leander/radar/BRS038_Radar_Type_79	</nodefullVisual>
-	<metaData>	Wargaming | Lesta Studio	</metaData>
+	<visual>	PnFMods/HLV_Suisei_Leander_Mod/BSC106_Leander/radar/BRS038_Radar_Type_79.visual	</visual>
+	<animations>
+		<animation>	content/animation_state_machines/legacy/gameplay/BRS038_Radar_Type_79/BRS038_Radar_Type_79.ssm	</animation>
+	</animations>
+	<dyes />
+	<metaData>	Wargaming.net	</metaData>
 </BRS038_Radar_Type_79.model>

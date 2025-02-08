@@ -1,5 +1,5 @@
 <BD038_HACS_MK_III_with_Radar_type285_skinned.mfm>
-	<fx>	shaders/std_effects/PBS_ship_skinned.fx	</fx>
+	<fx>	shaders/materials/pbs/ship_material_skinned.fx	</fx>
 	<collisionFlags>	0	</collisionFlags>
 	<property>	ambientOcclusionMap
 		<Texture>	PnFMods/HLV_Suisei_Leander_Mod/BSC106_Leander/director/default_ao.dds	</Texture>

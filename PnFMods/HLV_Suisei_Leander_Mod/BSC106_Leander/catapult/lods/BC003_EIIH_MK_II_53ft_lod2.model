@@ -1,9 +1,0 @@
-<BC003_EIIH_MK_II_53ft_lod2.model>
-	<exporter>	1.6	</exporter>
-	<parent>	PnFMods/HLV_Suisei_Leander_Mod/BSC106_Leander/catapult/lods/BC003_EIIH_MK_II_53ft_lod3	</parent>
-	<extent>	30.0000	</extent>
-	<materialNames />
-	<castsShadow>	true	</castsShadow>
-	<nodefullVisual>	PnFMods/HLV_Suisei_Leander_Mod/BSC106_Leander/catapult/lods/BC003_EIIH_MK_II_53ft_lod2	</nodefullVisual>
-	<metaData>	Wargaming | Lesta Studio	</metaData>
-</BC003_EIIH_MK_II_53ft_lod2.model>

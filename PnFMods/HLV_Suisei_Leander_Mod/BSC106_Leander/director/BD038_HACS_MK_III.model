@@ -1,7 +1,6 @@
 <BD038_HACS_MK_III.model>
-	<castsShadow>	false	</castsShadow>
-	<parent>	PnFMods/HLV_Suisei_Leander_Mod/BSC106_Leander/director/lods/BD038_HACS_MK_III_lod1	</parent>
-	<extent>	3.0000	</extent>
-	<nodefullVisual>	PnFMods/HLV_Suisei_Leander_Mod/BSC106_Leander/director/BD038_HACS_MK_III	</nodefullVisual>
-	<metaData>	Wargaming | Lesta Studio	</metaData>
+	<visual>	PnFMods/HLV_Suisei_Leander_Mod/BSC106_Leander/director/BD038_HACS_MK_III.visual	</visual>
+	<animations />
+	<dyes />
+	<metaData>	Wargaming.net	</metaData>
 </BD038_HACS_MK_III.model>

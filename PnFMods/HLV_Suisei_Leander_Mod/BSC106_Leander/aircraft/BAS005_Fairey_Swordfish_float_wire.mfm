@@ -1,10 +1,10 @@
 <BAS005_Fairey_Swordfish_float_wire.mfm>
-	<collisionFlags>	0	</collisionFlags>
 	<fx>	shaders/std_effects/PBS_wire.fx	</fx>
-	<property>	metallicGlossMap
-		<Texture>	PnFMods/HLV_Suisei_Leander_Mod/BSC106_Leander/aircraft/BAS005_Fairey_Swordfish_float_mg.dds	</Texture>
-	</property>
+	<collisionFlags>	0	</collisionFlags>
 	<property>	diffuseMap
 		<Texture>	PnFMods/HLV_Suisei_Leander_Mod/BSC106_Leander/aircraft/BAS005_Fairey_Swordfish_float_a.dds	</Texture>
+	</property>
+	<property>	metallicGlossMap
+		<Texture>	PnFMods/HLV_Suisei_Leander_Mod/BSC106_Leander/aircraft/BAS005_Fairey_Swordfish_float_mg.dds	</Texture>
 	</property>
 </BAS005_Fairey_Swordfish_float_wire.mfm>

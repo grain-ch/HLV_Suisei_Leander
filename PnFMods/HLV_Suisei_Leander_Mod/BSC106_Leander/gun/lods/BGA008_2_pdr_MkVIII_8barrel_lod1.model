@@ -1,7 +1,0 @@
-<BGA008_2_pdr_MkVIII_8barrel_lod1.model>
-	<castsShadow>	false	</castsShadow>
-	<parent>	PnFMods/HLV_Suisei_Leander_Mod/BSC106_Leander/gun/lods/BGA008_2_pdr_MkVIII_8barrel_lod2	</parent>
-	<extent>	10.0000	</extent>
-	<nodefullVisual>	PnFMods/HLV_Suisei_Leander_Mod/BSC106_Leander/gun/lods/BGA008_2_pdr_MkVIII_8barrel_lod1	</nodefullVisual>
-	<metaData>	Wargaming | Lesta Studio	</metaData>
-</BGA008_2_pdr_MkVIII_8barrel_lod1.model>

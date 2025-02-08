@@ -1,5 +1,5 @@
 <BD015_DCT_MK_XXl_with_finder_15_ft.mfm>
-	<fx>	shaders/std_effects/PBS_ship.fx	</fx>
+	<fx>	shaders/materials/pbs/ship_material.fx	</fx>
 	<collisionFlags>	0	</collisionFlags>
 	<property>	ambientOcclusionMap
 		<Texture>	PnFMods/HLV_Suisei_Leander_Mod/BSC106_Leander/director/default_ao.dds	</Texture>

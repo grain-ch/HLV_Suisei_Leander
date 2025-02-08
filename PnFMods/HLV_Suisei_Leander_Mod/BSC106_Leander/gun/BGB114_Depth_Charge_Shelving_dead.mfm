@@ -14,7 +14,7 @@
 		<Texture>	PnFMods/HLV_Suisei_Leander_Mod/BSC106_Leander/gun/BGB114_Depth_Charge_Shelving_dead_mg.dds	</Texture>
 	</property>
 	<property>	normalMap
-		<Texture>	PnFMods/HLV_Suisei_Leander_Mod/BSC106_Leander/gun/BGB114_Depth_Charge_Shelving_n.dds	</Texture>
+		<Texture>	PnFMods/HLV_Suisei_Leander_Mod/BSC106_Leander/gun/default_n.dds	</Texture>
 	</property>
 	<property>	g_detailAlbedoInfluence
 		<Float>	0.6000	</Float>
